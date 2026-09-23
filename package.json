@@ -1,0 +1,14 @@
+{
+  "name": "uni-schedule-app",
+  "version": "1.0.0",
+  "description": "App orario UniTrento",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev",
+    "build": "echo 'No build step'"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "netlify-cli": "^17.0.0"
+  }
+}
